@@ -9,33 +9,33 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeDescription(
   ".html",
-  "HTML é uma linguagem baseada em marcação, onde marcamos os elementos para definir quais informações a página vai exibir."
+  "HTML هي لغة قائمة على الترميز حيث نقوم بترميز العناصر لتحديد المعلومات التي ستعرضها الصفحة"
 );
 hoverChangeDescription(
   ".css",
-  "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML."
+  "هي لغة تنسيق لصفحات الويب تهتم بشكل وتصميم المواقع، صممت خصيصا لفصل التنسيق (الألوان - الخطوط - الأزرار....) عن محتوى المستند المكتوب (بلغة مثلا إتش تي إم إل HTML) وينطبق ذلك على الألوان والخطوط والصور والخلفيات التي تستخدم في الصفحات، بمرونة وسهولة تامة"
 );
 hoverChangeDescription(
   ".js",
-  "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
+  "JavaScript عبارة عن لغة برمجة مفسرة ذات مستوى عالٍ ومهيكلة ومتعددة النماذج ومكتوبة ديناميكيًا"
 );
 hoverChangeDescription(
   ".sass",
-  "Sass (pré-processador css) é uma linguagem de folhas de estilo. É uma simples linguagem de script usada em arquivos Sass."
+  "Sass (معالج css المسبق) هي لغة أنماط. إنها لغة برمجة نصية بسيطة مستخدمة في ملفات Sass"
 );
 hoverChangeDescription(
   ".react",
-  "ReactJS é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web."
+  "ReactJS هي مكتبة JavaScript مفتوحة المصدر تركز على إنشاء واجهات مستخدم على صفحات الويب"
 );
 hoverChangeDescription(
   ".next",
-  "Next.js é uma estrutura da web que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para web baseados em React."
+  "نيكست جي أس هو إطار عمل لتطوير الويب مفتوح المصدر مبني فوق Node.js لتمكين تطبيقات الويب التي تستخدم مكتبة رياكت بإجراء بعض المميزات مثل العرض من جانب الخادم وإنشاء مواقع الويب"
 );
 hoverChangeDescription(
   ".styled",
-  "Styled Components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
+  "Styled Components هي مكتبة تستخدم مفهوم CSS-in-JS ، أي أنها تسمح لنا بكتابة أكواد CSS داخل Javascript"
 );
 hoverChangeDescription(
   ".tailwind",
-  "Tailwind CSS é um framework desenvolvido para maximizar o potencial do bom e velho CSS e levá-lo ainda mais longe."
+  "Tailwind CSS عبارة عن إطار عمل مصمم لزيادة إمكانات CSS القديمة الجيدة إلى أقصى حد والاستفادة منها إلى أبعد من ذلك."
 );
