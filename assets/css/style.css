@@ -317,7 +317,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-home .grid-layout #home #home-container-photo #logo-lab #luz-logo,
-#s-home .grid-layout #home #home-container-photo #logo-lab #logo-iuricode {
+#s-home .grid-layout #home #home-container-photo #logo-lab #logo-Elhouari {
   opacity: 1;
   animation: light 8s ease infinite alternate;
 }
@@ -391,7 +391,7 @@ header .grid-layout nav .nav-list li a:hover {
   transition: 1s all ease;
 }
 
-#s-about .grid-layout #about-photo #photo-iuricode {
+#s-about .grid-layout #about-photo #photo-Elhouari {
   width: 400px;
 }
 
