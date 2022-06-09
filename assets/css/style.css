@@ -99,7 +99,7 @@ header .grid-layout nav {
 }
 
 header .grid-layout nav img {
-  width: 150px;
+  width: 70px;
 }
 
 header .grid-layout nav .nav-list {
@@ -318,6 +318,7 @@ header .grid-layout nav .nav-list li a:hover {
 
 #s-home .grid-layout #home #home-container-photo #logo-lab #luz-logo,
 #s-home .grid-layout #home #home-container-photo #logo-lab #logo-Elhouari {
+
   opacity: 1;
   animation: light 8s ease infinite alternate;
 }
