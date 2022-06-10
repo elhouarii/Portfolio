@@ -13,7 +13,7 @@
     #projects {
       margin: $gap-3 0px;
       @include flexbox-between;
-      text-align: left;
+      text-align: right;
       > article {
         background-color: $bg-secondary;
         @include block-article;

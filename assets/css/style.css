@@ -72,7 +72,7 @@ html {
 }
 
 header {
-  background: rgba(10, 10, 25, 0.7);
+  background: #490bbd; 
   backdrop-filter: blur(24px);
   -webkit-backdrop-filter: blur(24px);
   border-bottom: 1px solid rgba(114, 114, 126, 0.2);
@@ -81,6 +81,7 @@ header {
   position: fixed;
   top: 0;
   left: 0;
+  
 }
 
 @media screen and (max-width: 992px) {
@@ -99,7 +100,7 @@ header .grid-layout nav {
 }
 
 header .grid-layout nav img {
-  width: 70px;
+  width: 60px;
 }
 
 header .grid-layout nav .nav-list {
@@ -528,7 +529,7 @@ header .grid-layout nav .nav-list li a:hover {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  text-align: left;
+  text-align: right;
 }
 
 #s-projects .grid-layout #projects > article {
@@ -836,7 +837,7 @@ footer .grid-layout {
   }
 }
 
-footer .grid-layout #direitos-autorais {
+footer .grid-layout #cpy {
   margin-top: 24px;
 }
 
