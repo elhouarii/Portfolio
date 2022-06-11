@@ -911,6 +911,9 @@ a.socialicon {
   align-items: center;
   justify-content: center;
   flex-flow: row wrap;
+  width: auto;
+  height: auto;
+  
 }
 .socialicon{
   display: flex;
@@ -924,6 +927,7 @@ a.socialicon {
   box-shadow: 2px 5px 5px var(--shadow-col);
   text-decoration: none;
   transition: var(--trans-props);
+
 }
 .socialicon i {
   margin: auto;
