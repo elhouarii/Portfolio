@@ -15,11 +15,8 @@
 - SVG Inject;
 - Typed.js;
 
+
+
 ---
 
- <img
-                  src="assets/image/preview.png"
-                  
-                  alt="Site Preview"
-                 
-                />
+ <img src="assets/image/preview.png" alt="Site Preview"/>
